@@ -17,7 +17,7 @@ Key hypothesisbased on last 6 months Bike Trips:
 ![BikeUsage](Images/BikeUsage.png)
 
 # CityBike Rides by Age and Gender Dashboard
-![BikeUsage](Images/BikeUsage.png)
+![BikeRides_By_Age_Gender](Images/BikeRides_By_Age_Gender.png)
 
 # BikeStations Pupularity Dashboard - Dynamic Map & Top 10/Top Bottom = Start & End Stations
 ![Station_Popularity_Dynamic_Map](Images/Station_Popularity_Dynamic_Map.png)
