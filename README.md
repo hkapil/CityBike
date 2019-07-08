@@ -10,14 +10,14 @@ Key hypothesisbased on last 6 months Bike Trips:
 
 
 # BikeRides Membership Analysis Dashboard
-![CityBike_Membership](Images/CityBike_Membership.png)
+![CityBike_Membership](Images/CityBike_Membership.PNG)
 
 
 # CityBikes Usage over months Dashboard
-![BikeUsage](Images/BikeUsage.png)
+![BikeUsage](Images/BikeUsage.PNG)
 
 # CityBike Rides by Age and Gender Dashboard
-![BikeRides_By_Age_Gender](Images/BikeRides_By_Age_Gender.png)
+![BikeRides_By_Age_Gender](Images/BikeRides_By_Age_Gender.PNG)
 
 # BikeStations Pupularity Dashboard - Dynamic Map & Top 10/Top Bottom = Start & End Stations
-![Station_Popularity_Dynamic_Map](Images/Station_Popularity_Dynamic_Map.png)
+![Station_Popularity_Dynamic_Map](Images/Station_Popularity_Dynamic_Map.PNG)
